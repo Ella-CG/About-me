@@ -1,0 +1,50 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: beige;
+}
+
+.about-me {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.photo {
+    width: 100%;
+    max-width: 250px;
+    max-height: 300px;
+    border-radius: 50%;
+}
+
+.me h1 {
+    font-size: 1.75rem;
+}
+
+.description {
+    max-width: 910px;
+    font-size: 1.1rem;
+    margin: auto;
+}
+
+.book {
+    margin: 20px auto;
+}
+
+.book img {
+    max-width: 200px;
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    display: inline-block;
+    color: black;
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
